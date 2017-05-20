@@ -1,7 +1,7 @@
 # Twitter Retweet Bot using Python & Tweepy
 A relatively simple Python-built Twitter retweet bot using Tweepy. Searches and retweets based on hashtag or keyword value.
 
-What You Need || Need to Know
+What You Need && Need to Know
 ----------
 
 * [Tweepy](http://www.tweepy.org/) - An easy-to-use Python library for accessing the Twitter API.
