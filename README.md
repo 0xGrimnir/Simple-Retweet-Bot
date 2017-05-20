@@ -25,3 +25,8 @@ Instructions
 `python retweet.py`
 
 * Note: Make sure that your retweet.py and keys.py files are, obviously, in the same directory.
+
+Additional Information
+----------
+* Create a [Cron Job](https://code.tutsplus.com/tutorials/scheduling-tasks-with-cron-jobs--net-8800) or use [Task Scheduler](https://technet.microsoft.com/en-us/library/cc748993(v=ws.11).aspx) to automate this script.
+* Consider using a Raspberry Pi to host your retweet bot, so it's always on and always running. :)
