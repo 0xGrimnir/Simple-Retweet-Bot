@@ -1,4 +1,4 @@
 realkeys.py
 .vscode/**
-__pycache__/realkeys.cpython-35.pyc
-realkeys.pyc
+__pycache__/**
+*.pyc
