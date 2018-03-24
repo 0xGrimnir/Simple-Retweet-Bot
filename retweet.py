@@ -52,7 +52,7 @@ for tweet in reversed(fetchedTweets):
         # Where sleep(10), sleep is measured in seconds.
         # Change 10 to amount of seconds you want to have in-between retweets.
         # Read Twitter's rules on automation. Don't spam!
-
+        sleep(5)
 
     # Some basic error handling. Will print out why retweet failed, into your terminal.
     except tweepy.TweepError as error:
