@@ -3,3 +3,4 @@ settings.py
 __pycache__/**
 *.pyc
 .idea/**
+**.obj
